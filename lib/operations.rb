@@ -22,6 +22,6 @@ end
 	
 
 
- (speed > 60) ? true : true
-  (speed > 60) ? true : false
-  (speed < 40) ? true : false
+ #(speed > 60) ? true : true
+#(speed > 60) ? true : false
+ # (speed < 40) ? true : false
